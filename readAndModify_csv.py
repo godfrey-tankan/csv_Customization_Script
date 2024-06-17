@@ -4,10 +4,10 @@ import random
 from datetime import datetime, timedelta
 import os
 
-input_file = 'matobo_national_park_reviews.csv'
-output_file = 'matobo_national_park_reviewss.csv'
+input_file = 'graceland_guest_house_mazowe.csv'
+output_file = 'graceland_guest_house_mazowe_reviews.csv'
 
-start_date = datetime(2013, 1, 1)
+start_date = datetime(2022, 1, 1)
 end_date = datetime(2023, 12, 31)
 
 current_dir = os.path.dirname(os.path.abspath(__file__))

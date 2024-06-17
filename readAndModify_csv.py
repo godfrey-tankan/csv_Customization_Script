@@ -7,7 +7,7 @@ import os
 input_file = 'Warthogs-Safari-Camp.csv'
 output_file = 'Warthogs-Safari-Camp-reviews.csv'
 
-start_date = datetime(2015, 1, 1)
+start_date = datetime(2018, 1, 1)
 end_date = datetime(2023, 12, 31)
 
 current_dir = os.path.dirname(os.path.abspath(__file__))

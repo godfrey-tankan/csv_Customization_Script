@@ -4,8 +4,8 @@ import random
 from datetime import datetime, timedelta
 import os
 
-input_file = 'Bulawayo Railway Museum.csv'
-output_file = 'Bulawayo Railway Museum reviews.csv'
+input_file = 'cresta_lodge_hotel_harare.csv'
+output_file = 'cresta_lodge_hotel_harare_reviews.csv'
 
 start_date = datetime(2013, 1, 1)
 end_date = datetime(2023, 12, 31)
